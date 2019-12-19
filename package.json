@@ -1,5 +1,5 @@
 {
-  "name": "lib-remove-at-index",
+  "name": "remove-at-index",
   "version": "1.0.0",
   "description": "remove an element at a specified index without modifying the original array",
   "main": "index.js",
