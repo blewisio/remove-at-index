@@ -1,0 +1,19 @@
+{
+  "name": "lib-remove-at-index",
+  "version": "1.0.0",
+  "description": "remove an element at a specified index without modifying the original array",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "remove",
+    "index",
+    "array"
+  ],
+  "repository": "github:blewisio/remove-at-index",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
